@@ -11,8 +11,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
-🎓 B.Sc Data Analytics (2024–2027) <br>
-📊 Interested in data analysis & dashboards <br>🔍 Turning data into insight & foresight <br>🚀 Building real-world projects <br>📍 Chennai, India <br>
+<p align="center">
+  <b>🎓 B.Sc Data Analytics (2024–2027)</b> <br><br>
+  📍 Chennai, India <br>
+  📊 Data Analysis & Dashboards <br>
+  🔍 Turning data into insight & foresight <br>
+  🚀 Building real-world projects
+</p>
 
 # 💻 Tech Stack
 ### 📊 Analysis Tools
