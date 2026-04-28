@@ -12,11 +12,11 @@
   </a>
 </p>
 <p>
-  <b>🎓 B.Sc Data Analytics (2024–2027)</b> <br><br>
-  📍 Chennai, India <br>
-  📊 Data Analysis & Dashboards <br>
-  🔍 Turning data into insight & foresight <br>
-  🚀 Building real-world projects
+  🎓 <b>B.Sc Data Analytics</b> (2024–2027) <br><br>
+  📊 Data Analysis & Dashboard Enthusiast <br>
+  🔍 Turning data into <b>insight → foresight</b> <br>
+  🚀 Building real-world projects <br>
+  📍 Chennai, India
 </p>
 
 # 💻 Tech Stack
