@@ -12,7 +12,7 @@
   </a>
 </p>
 <p>
-  🎓 <b>B.Sc Data Analytics</b> (2024–2027) <br><br>
+  🎓 <b>B.Sc Data Analytics</b> (2024–2027) <br>
   📊 Data Analysis & Dashboard Enthusiast <br>
   🔍 Turning data into <b>insight → foresight</b> <br>
   🚀 Building real-world projects <br>
