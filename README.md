@@ -42,3 +42,5 @@
 🔍 “Every dataset hides a pattern — my job is to find it.”
 </p>
 ---
+
+[![](https://komarev.com/ghpvc/?username=Maanu-Hue&icon=1&color=cba6f7)](https://visitcount.itsvg.in)
