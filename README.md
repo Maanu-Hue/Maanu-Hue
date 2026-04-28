@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hi, I'm Manasa M!</h1>
 
 <p align="center">
-  Aspiring Data Analyst | Data Enthusiast |  Turning Data into Actionable Insights
+  Aspiring Data Analyst focused on real-world problem solving| Data Enthusiast |  Turning Data into Actionable Insights
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/manasadataanalyst">
