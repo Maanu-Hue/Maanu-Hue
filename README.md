@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center">
+<p>
   <b>🎓 B.Sc Data Analytics (2024–2027)</b> <br><br>
   📍 Chennai, India <br>
   📊 Data Analysis & Dashboards <br>
