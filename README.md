@@ -29,12 +29,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Maanu-Hue&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Maanu-Hue&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Maanu-Hue&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maanu-Hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-⭐ “From data to hindsight, insight, and foresight.”
-
+<p align="center">
+🔍 “Every dataset hides a pattern — my job is to find it.”
+</p>
 ---
