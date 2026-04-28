@@ -1,4 +1,7 @@
+<p align="center">
 # 💫 Hi, I'm Manasa M !
+Aspiring Data Analyst | Data Enthusiast | Turning Data into Actionable Insights 
+</p>
 🎓 B.Sc Data Analytics student (2024–2027)<br>📊 Interested in data analysis, dashboards, and pattern finding<br>🔍 Focused on turning data into hindsight → insight → foresight<br>🚀 Building real-world projects to improve practical skills<br>💡 Open to learning and using guidance/tools to grow faster<br>🎯 Goal: Become a skilled Data Analyst
 
 # 💻 Tech Stack
